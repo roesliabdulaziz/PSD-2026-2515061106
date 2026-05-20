@@ -6,6 +6,7 @@ Program ini dibuat untuk mencari data mahasiswa berdasarkan NPM menggunakan algo
 Pada program ini, data mahasiswa disimpan dalam bentuk list yang berisi dictionary. Setiap dictionary memiliki data NPM, nama, dan kelas. Program akan meminta user memasukkan NPM yang ingin dicari, kemudian program akan membandingkan NPM tersebut dengan setiap data mahasiswa sampai data ditemukan atau sampai seluruh data selesai diperiksa.
 
 C. Source Code
+
 <img width="462" height="445" alt="image" src="https://github.com/user-attachments/assets/f1c8ed6a-dae5-41db-99a6-1bb4d1ce7415" />
  
 <img width="462" height="205" alt="image" src="https://github.com/user-attachments/assets/8b5be2d4-4e66-44d7-b517-6680d0eaefff" />
