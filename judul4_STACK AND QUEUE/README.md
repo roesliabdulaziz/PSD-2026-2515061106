@@ -9,8 +9,8 @@ Pada program ini, data pasien disimpan dalam bentuk array (list) yang berisi dic
 
 C. Source Code  
   
-<img width="468" height="436" alt="image" src="https://github.com/user-attachments/assets/0a69b412-972a-45b6-9d4c-70bb8060e1d8" />
- 
+<img width="468" height="420" alt="image" src="https://github.com/user-attachments/assets/e58170a4-2f63-4424-af8c-c9e6a6697d89" />
+
 <img width="468" height="436" alt="image" src="https://github.com/user-attachments/assets/1b5a911c-cf29-4882-96a3-c427ae3385ac" />
 
 <img width="468" height="436" alt="image" src="https://github.com/user-attachments/assets/bb7941d0-35f2-41c2-8e91-04c70c271c75" />
