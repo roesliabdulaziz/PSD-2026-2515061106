@@ -80,3 +80,44 @@ Terakhir terdapat sintaks if __name__ == "__main__": dan main(), yang berarti fu
 
 D.Output Program
 dengan memasukkan 3 nilai 
+
+ketika di run :
+
+<img width="648" height="163" alt="Screenshot 2026-05-25 at 17 39 02" src="https://github.com/user-attachments/assets/d18556f2-4b50-49eb-aada-abe0184d2a0a" />
+
+pilih 1:
+
+<img width="648" height="576" alt="Screenshot 2026-05-25 at 17 40 21" src="https://github.com/user-attachments/assets/088fe983-31e5-4730-a026-9113af3491b5" />
+
+pilih 2:
+
+<img width="648" height="191" alt="Screenshot 2026-05-25 at 17 41 16" src="https://github.com/user-attachments/assets/55087b83-5cbc-4aba-8ce8-f88c81fcfdd7" />
+
+pilih 3:
+
+<img width="648" height="178" alt="Screenshot 2026-05-25 at 17 41 43" src="https://github.com/user-attachments/assets/ba7c6164-04ba-4975-9eec-2e75f8af1427" />
+
+pilih 4:
+
+<img width="648" height="178" alt="Screenshot 2026-05-25 at 17 42 08" src="https://github.com/user-attachments/assets/86ee5273-22e4-479c-ab9d-ac95c9351ca6" />
+
+pilih 5:
+
+<img width="648" height="178" alt="Screenshot 2026-05-25 at 17 42 42" src="https://github.com/user-attachments/assets/62f1ddee-a7b6-4f42-b172-23c85c2589e2" />
+
+pilih 6:
+
+<img width="648" height="178" alt="Screenshot 2026-05-25 at 17 43 06" src="https://github.com/user-attachments/assets/ff1d770b-33c9-4922-b96b-e6574dd0349f" />
+
+pilih 7: 
+
+<img width="648" height="178" alt="Screenshot 2026-05-25 at 17 43 23" src="https://github.com/user-attachments/assets/4ee4deeb-f052-42b9-8f5a-e45b26ae9b3d" />
+
+pilih 8:
+
+<img width="648" height="201" alt="Screenshot 2026-05-25 at 17 44 07" src="https://github.com/user-attachments/assets/56b7588a-ace5-431b-ad34-586b5df8f050" />
+
+pilih 9:
+
+<img width="648" height="175" alt="Screenshot 2026-05-25 at 17 44 49" src="https://github.com/user-attachments/assets/bb83cf2b-84ed-44b7-89c0-bbdf2a370565" />
+
