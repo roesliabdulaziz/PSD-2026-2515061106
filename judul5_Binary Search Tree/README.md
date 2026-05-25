@@ -78,4 +78,5 @@ Pada menu 9, sintaks print("Program selesai. Terima kasih.") menampilkan pesan p
 
 Terakhir terdapat sintaks if __name__ == "__main__": dan main(), yang berarti fungsi utama hanya akan dijalankan ketika file Python ini dieksekusi secara langsung. Jika file ini di-import oleh file Python lain, maka menu program tidak otomatis dijalankan.
 
-D.Output Diagram
+D.Output Program
+dengan memasukkan 3 nilai 
