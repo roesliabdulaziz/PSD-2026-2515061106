@@ -121,3 +121,5 @@ pilih 9:
 
 <img width="648" height="175" alt="Screenshot 2026-05-25 at 17 44 49" src="https://github.com/user-attachments/assets/bb83cf2b-84ed-44b7-89c0-bbdf2a370565" />
 
+E.link youtube
+  https://youtu.be/D__XvQl0ABk
